@@ -1,7 +1,7 @@
 ## Hi there 👋
-Research Engineer-in-Training
+I'm a Research Engineer-in-Training
 
-Current Mission: Mastering the foundations of AI/ML through rigorous mathematics and backend engineering.
+Current Goal: Mastering the foundations of AI/ML through rigorous mathematics and backend engineering.
 
 🏗️ Building: Backend systems in Go and Python.
 
