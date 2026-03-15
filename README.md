@@ -3,10 +3,6 @@ I'm a Research Engineer-in-Training
 
 Current Goal: Mastering the foundations of AI/ML through rigorous mathematics and backend engineering.
 
-🏗️ Building: Backend systems in Go and Python.
-
-🧠 Studying: Linear Algebra & Calculus for ML (MathAcademy).
-
 <!--
 **hinduja64/hinduja64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
