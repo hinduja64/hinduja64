@@ -3,10 +3,7 @@ Research Engineer-in-Training
 Current Mission: Mastering the foundations of AI/ML through rigorous mathematics and backend engineering.
 
 🏗️ Building: Backend systems in Go and Python.
-
 🧠 Studying: Linear Algebra & Calculus for ML (MathAcademy).
-
-🏃‍♂️ Goal: 10km Non-stop (Current Baseline: 4km).
 
 "Consistency is the only metric that matters."
 
