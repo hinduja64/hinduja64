@@ -7,8 +7,6 @@ Current Goal: Mastering the foundations of AI/ML through rigorous mathematics an
 
 🧠 Studying: Linear Algebra & Calculus for ML (MathAcademy).
 
-"Consistency is the only metric that matters."
-
 <!--
 **hinduja64/hinduja64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
