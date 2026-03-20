@@ -1,7 +1,12 @@
-## Hi there 👋
-I'm a Research Engineer-in-Training
+## Research Engineer-in-Training
 
-Mastering the foundations of AI/ML through rigorous mathematics and backend engineering.
+Currently focused on:
+
+Mathematical foundations of ML (Linear Algebra & Calculus).
+
+Backend systems in Python.
+
+Building a 100-day predictive model for physiological data.
 
 <!--
 **hinduja64/hinduja64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
