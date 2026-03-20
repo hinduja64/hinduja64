@@ -1,12 +1,9 @@
 ## Research Engineer-in-Training
 
 Currently focused on:
-
-Mathematical foundations of ML (Linear Algebra & Calculus).
-
-Backend systems in Python.
-
-Building a 100-day predictive model for physiological data.
+* **Mathematical Foundations** (Linear Algebra & Calculus)
+* **Backend Systems** in Python
+* **Longitudinal Data Modeling** for physiological progression
 
 <!--
 **hinduja64/hinduja64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
