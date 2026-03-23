@@ -1,8 +1,6 @@
 ## Research Engineer-in-Training
 
 Currently focused on:
-* **Mathematical Foundations** (Linear Algebra & Calculus)
-* **Backend Systems** in Python
 * **Longitudinal Data Modeling** for physiological progression
 
 <!--
