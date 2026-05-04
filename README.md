@@ -1,4 +1,4 @@
-## Research Engineer-in-Training
+## 
 
 Currently focused on-
 * **Longitudinal Data Modeling** for physiological progression
